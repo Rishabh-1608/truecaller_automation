@@ -1,4 +1,5 @@
-This Python script is designed to automate the process of logging into the Truecaller website, searching for a phone number, and extracting information. It uses the Selenium library to interact with the website and perform these tasks.
+This Python script is designed to automate the process of logging into the Truecaller website, searching for a phone number, and extracting information. 
+It uses the Selenium library to interact with the website and perform these tasks.
 
 Here's a breakdown of what the code does:
 
@@ -24,4 +25,6 @@ Here's a breakdown of what the code does:
 
 Finally, the script quits the web browser.
 
-This code is a helpful tool for automating the process of searching for information on the Truecaller website using a Microsoft account. Make sure to replace the placeholders (like email, password, and phone_number) with your actual credentials and the phone number you want to search for before running the script.
+This code is a helpful tool for automating the process of searching for information on the Truecaller website using a Microsoft account. 
+Make sure to replace the placeholders (like email, password, and phone_number) with your actual credentials and the phone number you want 
+to search for before running the script.
